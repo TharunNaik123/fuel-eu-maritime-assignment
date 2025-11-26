@@ -3,9 +3,9 @@
 This is a simple project to compare shipping routes based on fuel emissions.
 Includes:
 
-- Node.js backend  
-- SQLite database  
-- React frontend  
-- Basic calculation logic  
+1.Node.js backend  
+2.SQLite database  
+3.React frontend  
+4.Basic calculation logic  
 
 
